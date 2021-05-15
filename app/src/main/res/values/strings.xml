@@ -13,6 +13,7 @@
     <string name="btn_true">TRUE</string>
     <string name="btn_false">FALSE</string>
     <string name="btn_next">NEXT</string>
+    <string name="btn_previous">PREVIOUS</string>
 
     <!--Toast-->
     <string name="correct_toast">정답!</string>
