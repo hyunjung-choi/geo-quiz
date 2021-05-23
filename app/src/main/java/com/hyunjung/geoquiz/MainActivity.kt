@@ -8,6 +8,8 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 
+private const val TAG = "MainActivity"
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var trueButton: Button
